@@ -26,7 +26,7 @@ var posts = [
     sinopse:'As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.'
 },
 {
-    url:'http://aescotilha.com.br/wp-content/uploads/2016/12/Arrival-Movie-Amy-Adams-Jeremy-Renner-1024x576.jpg',
+    url:'https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2019/04/a-chegada-saiba-como-utilizar-o-filme-no-vestibular.png',
     titulo: 'A Chegada',
     genero: 'Ficção científica/Thriller',
     sinopse:'Naves alienígenas chegaram às principais cidades do mundo. Com a intenção de se comunicar com os visitantes, uma linguista e um militar são chamados para decifrar as estranhas mensagens dos visitantes.'
