@@ -99,7 +99,7 @@ button {
 input {
 
     background-color: #202020;
-    border: 1px solid rgba(255, 255, 255, 0.079);
+    border: none;
     border-radius: 12px;
     padding: 15px 15px;
     color: white;
