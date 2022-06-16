@@ -121,4 +121,18 @@ button:hover{
   }
 }
 
+@media(max-width:519px){
+  input{
+    width: 100%;
+    margin:auto;
+    padding: 12px ;
+  }
+
+  button {
+    padding: 12px;
+    margin:5px
+  }
+}
+
+
 
